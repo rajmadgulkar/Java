@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsgnPract/AsgnPract.iml" filepath="$PROJECT_DIR$/AsgnPract/AsgnPract.iml" />
+      <module fileurl="file://$PROJECT_DIR$/DailyCodes/DailyCodes.iml" filepath="$PROJECT_DIR$/DailyCodes/DailyCodes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/XtraJava/XtraJava.iml" filepath="$PROJECT_DIR$/XtraJava/XtraJava.iml" />
+    </modules>
+  </component>
+</project>
